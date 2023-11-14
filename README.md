@@ -8,6 +8,8 @@ Object Identification System (OBIS)
 In der Tasmota-Konsole unter http://192.168.178.xxx/cs? den Befehl "`sensor53 d1`" eingeben um die Rohdaten zu sehen.
 
 ```
+----------------------------------------
+
 77078181c78203ff
 77 07 81 81 c7 82 03 ff
 Hersteller-Kennung
@@ -16,9 +18,11 @@ Hersteller-Kennung
 77 07 01 00 00 00 09 ff
 Geräte-Identifikation
 
+----------------------------------------
+
 77070100010800ff
 77 07 01 00 01 08 00 ff
-Zählwerk, positive Wirkenergie, Tariflos
+Zählwerk, positive Wirkenergie, tariflos
 
 77070100010801ff
 77 07 01 00 01 08 01 ff
@@ -28,14 +32,34 @@ Zählwerk, positive Wirkenergie, Tarif 1
 77 07 01 00 01 08 02 ff
 Zählwerk, positive Wirkenergie, Tarif 2
 
+----------------------------------------
+
+77070100020800ff
+77 07 01 00 02 08 00 ff
+Zählwerk, negative Wirkenergie, tariflos
+
+77070100020801ff
+77 07 01 00 02 08 01 ff
+Zählwerk, negative Wirkenergie, Tarif 1
+
+77070100020802ff
+77 07 01 00 02 08 02 ff
+Zählwerk, negative Wirkenergie, Tarif 2
+
+----------------------------------------
+
 77070100100700ff
 77 07 01 00 10 07 00 ff
 Aktuelle positive Wirkleistung
-Wird eventuell nur beim vollständigen Datensatz angezeigt.
+(wird eventuell nur beim vollständigen Datensatz angezeigt)
+
+----------------------------------------
 
 77078181c78205ff
 77 07 81 81 c7 82 05 ff
 Public Key
+
+----------------------------------------
 ```
 
 ## Links
