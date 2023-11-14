@@ -69,3 +69,5 @@ Public Key
 - https://www.msxfaq.de/sonst/bastelbude/smartmeter_d0_sml_protokoll.htm
 - https://www.msxfaq.de/sonst/bastelbude/smartmeter_d0_sml.htm
 - https://de.wikipedia.org/wiki/OBIS-Kennzahlen
+- https://github.com/tasmota/docs/blob/master/docs/Smart-Meter-Interface.md
+- https://tasmota.github.io/docs/Smart-Meter-Interface/
