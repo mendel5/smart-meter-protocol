@@ -7,6 +7,7 @@ Object Identification System (OBIS)
 ## Protocol information
 In der Tasmota-Konsole unter http://192.168.178.xxx/cs? den Befehl "`sensor53 d1`" eingeben um die Rohdaten zu sehen.
 
+### EMH eHZ Generation K
 ```
 ----------------------------------------
 
