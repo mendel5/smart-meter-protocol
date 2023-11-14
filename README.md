@@ -2,10 +2,10 @@
 Information about smart meters and the protocol they use to transmit information
 
 Smart Meter Language (SML),
-OBIS
+Object Identification System (OBIS)
 
 ## Protocol information
-Zur Fehlersuche habe ich in der Tasmota Konsole unter http://192.168.178.xxx/cs? einfach den Befehl "`sensor53 d1`" eingegeben um die Rohdaten zu sehen.
+In der Tasmota-Konsole unter http://192.168.178.xxx/cs? den Befehl "`sensor53 d1`" eingeben um die Rohdaten zu sehen.
 
 ```
 77078181c78203ff
@@ -14,7 +14,7 @@ Herstellerkennung
 
 77070100000009ff
 77 07 01 00 00 00 09 ff
-Geräte Identifikation
+Geräte-Identifikation
 
 77070100010800ff
 77 07 01 00 01 08 00 ff
@@ -42,3 +42,4 @@ Public Key
 - https://hessburg.de/tasmota-smartmeter-faq/
 - https://www.msxfaq.de/sonst/bastelbude/smartmeter_d0_sml_protokoll.htm
 - https://www.msxfaq.de/sonst/bastelbude/smartmeter_d0_sml.htm
+- https://de.wikipedia.org/wiki/OBIS-Kennzahlen
