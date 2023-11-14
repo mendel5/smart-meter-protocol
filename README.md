@@ -24,28 +24,34 @@ Geräte-Identifikation
 77070100010800ff
 77 07 01 00 01 08 00 ff
 Zählwerk, positive Wirkenergie, tariflos
+Total consumption
 
 77070100010801ff
 77 07 01 00 01 08 01 ff
 Zählwerk, positive Wirkenergie, Tarif 1
+Total consumption, tariff 1
 
 77070100010802ff
 77 07 01 00 01 08 02 ff
 Zählwerk, positive Wirkenergie, Tarif 2
+Total consumption, tariff 2
 
 ----------------------------------------
 
 77070100020800ff
 77 07 01 00 02 08 00 ff
 Zählwerk, negative Wirkenergie, tariflos
+Total feed-in
 
 77070100020801ff
 77 07 01 00 02 08 01 ff
 Zählwerk, negative Wirkenergie, Tarif 1
+Total feed-in, tariff 1
 
 77070100020802ff
 77 07 01 00 02 08 02 ff
 Zählwerk, negative Wirkenergie, Tarif 2
+Total feed-in, tariff 2
 
 ----------------------------------------
 
@@ -53,6 +59,7 @@ Zählwerk, negative Wirkenergie, Tarif 2
 77 07 01 00 10 07 00 ff
 Aktuelle positive Wirkleistung
 (wird eventuell nur beim vollständigen Datensatz angezeigt)
+Power
 
 ----------------------------------------
 
@@ -65,25 +72,30 @@ Public Key
 
 ### Apator
 ```
+----------------------------------------
 
-77070100010800ff, Total consumption
-77070100010801ff, Verbrauch_Tarif_1
-77070100010802ff, Verbrauch_Tarif_2
-77070100020800ff, Total feed
-770701000e0700ff, Frequency
-77070100100700ff, Current consumption
-770701001f0700ff, Current L1
-77070100200700ff, Voltage L1
 77070100240700ff, Current consumption L1
-77070100330700ff, Current L2
-77070100340700ff, Voltage L2
 77070100380700ff, Current consumption L2
-77070100470700ff, Current L3
-77070100480700ff, Voltage L3
 770701004c0700ff, Current consumption L3
 
-```
+----------------------------------------
 
+77070100200700ff, Voltage L1
+77070100340700ff, Voltage L2
+77070100480700ff, Voltage L3
+
+----------------------------------------
+
+770701001f0700ff, Current L1
+77070100330700ff, Current L2
+77070100470700ff, Current L3
+
+----------------------------------------
+
+770701000e0700ff, Frequency
+
+----------------------------------------
+```
 
 ## Links
 - https://hessburg.de/tasmota-wifi-smartmeter-konfigurieren/
