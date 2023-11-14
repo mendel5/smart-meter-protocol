@@ -74,25 +74,25 @@ Public Key
 ```
 ----------------------------------------
 
-77070100240700ff, Current consumption L1
-77070100380700ff, Current consumption L2
-770701004c0700ff, Current consumption L3
+77070100240700ff, 77070100240700ff, Current consumption L1
+77070100380700ff, 77070100380700ff, Current consumption L2
+770701004c0700ff, 770701004c0700ff, Current consumption L3
 
 ----------------------------------------
 
-77070100200700ff, Voltage L1
-77070100340700ff, Voltage L2
-77070100480700ff, Voltage L3
+77070100200700ff, 77070100200700ff, Voltage L1
+77070100340700ff, 77070100340700ff, Voltage L2
+77070100480700ff, 77070100480700ff, Voltage L3
 
 ----------------------------------------
 
-770701001f0700ff, Current L1
-77070100330700ff, Current L2
-77070100470700ff, Current L3
+770701001f0700ff, 770701001f0700ff, Current L1
+77070100330700ff, 77070100330700ff, Current L2
+77070100470700ff, 77070100470700ff, Current L3
 
 ----------------------------------------
 
-770701000e0700ff, Frequency
+770701000e0700ff, 770701000e0700ff, Frequency
 
 ----------------------------------------
 ```
