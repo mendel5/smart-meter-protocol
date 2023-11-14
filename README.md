@@ -31,6 +31,7 @@ Zählwerk, positive Wirkenergie, Tarif 2
 77070100100700ff
 77 07 01 00 10 07 00 ff
 Aktuelle positive Wirkleistung
+Wird eventuell nur beim vollständigen Datensatz angezeigt.
 
 77078181c78205ff
 77 07 81 81 c7 82 05 ff
