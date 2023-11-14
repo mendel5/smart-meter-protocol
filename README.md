@@ -10,7 +10,7 @@ In der Tasmota-Konsole unter http://192.168.178.xxx/cs? den Befehl "`sensor53 d1
 ```
 77078181c78203ff
 77 07 81 81 c7 82 03 ff
-Herstellerkennung
+Hersteller-Kennung
 
 77070100000009ff
 77 07 01 00 00 00 09 ff
