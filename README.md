@@ -63,6 +63,28 @@ Public Key
 ----------------------------------------
 ```
 
+### Apator
+```
+
+77070100010800ff, Total consumption
+77070100010801ff, Verbrauch_Tarif_1
+77070100010802ff, Verbrauch_Tarif_2
+77070100020800ff, Total feed
+770701000e0700ff, Frequency
+77070100100700ff, Current consumption
+770701001f0700ff, Current L1
+77070100200700ff, Voltage L1
+77070100240700ff, Current consumption L1
+77070100330700ff, Current L2
+77070100340700ff, Voltage L2
+77070100380700ff, Current consumption L2
+77070100470700ff, Current L3
+77070100480700ff, Voltage L3
+770701004c0700ff, Current consumption L3
+
+```
+
+
 ## Links
 - https://hessburg.de/tasmota-wifi-smartmeter-konfigurieren/
 - https://hessburg.de/tasmota-smartmeter-faq/
