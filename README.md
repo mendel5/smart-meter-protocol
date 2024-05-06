@@ -8,7 +8,7 @@ See also / Siehe auch:
 - https://github.com/mendel5/smart-meter
 
 ## Tasmota
-In der Tasmota-Konsole unter http://192.168.178.xxx/cs? den Befehl "`sensor53 d1`" eingeben um die Rohdaten zu sehen.
+In der Tasmota-Konsole unter http://192.168.178.xxx/cs? den Befehl "`sensor53 d1`" eingeben um die Rohdaten zu sehen. Zum Deaktivieren der Rohdaten-Ausgabe den Befehl "`sensor53 d0`" eingeben.
 ## Protocol information
 
 ### EMH eHZ Generation P
