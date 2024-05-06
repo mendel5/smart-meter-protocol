@@ -4,6 +4,9 @@ Information about smart meters and the protocol they use to transmit information
 Smart Meter Language (SML),
 Object Identification System (OBIS)
 
+See also / Siehe auch:
+- https://github.com/mendel5/smart-meter
+
 ## Tasmota
 In der Tasmota-Konsole unter http://192.168.178.xxx/cs? den Befehl "`sensor53 d1`" eingeben um die Rohdaten zu sehen.
 ## Protocol information
