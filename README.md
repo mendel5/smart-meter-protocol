@@ -57,7 +57,7 @@ Total feed-in, tariff 2
 
 77070100100700ff
 77 07 01 00 10 07 00 ff
-Aktuelle positive Wirkleistung
+Aktuelle positive Wirkleistung / Aktuelle Momentanwirkleistung
 (wird eventuell nur beim vollständigen Datensatz angezeigt)
 Power
 
