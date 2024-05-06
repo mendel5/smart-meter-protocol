@@ -4,8 +4,26 @@ Information about smart meters and the protocol they use to transmit information
 Smart Meter Language (SML),
 Object Identification System (OBIS)
 
-## Protocol information
+## Tasmota
 In der Tasmota-Konsole unter http://192.168.178.xxx/cs? den Befehl "`sensor53 d1`" eingeben um die Rohdaten zu sehen.
+## Protocol information
+
+### EMH eHZ Generation P
+````
+----------------------------------------
+
+010060320101
+01 00 60 32 01 01
+Hersteller-Kennung
+
+0100600100ff
+01 00 60 01 00 ff
+Geräte-Identifikation
+
+----------------------------------------
+````
+
+Die restlichen Werte sollten identisch sein zum `EMH eHZ Generation K`.
 
 ### EMH eHZ Generation K
 ```
